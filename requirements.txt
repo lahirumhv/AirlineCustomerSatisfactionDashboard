@@ -2,4 +2,4 @@ pandas
 plotly.express
 seaborn
 scikit-learn
-pickle
+pickle5
