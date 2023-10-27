@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
-import pickle
+import pickle5 as pickle
 
 
 st.set_page_config(
